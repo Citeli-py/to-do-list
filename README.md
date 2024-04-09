@@ -13,23 +13,23 @@ Este é um simples aplicativo de to-do list desenvolvido em React. Permite aos u
 1. Clone este repositório:
 
    ```bash
-     git clone https://github.com/Citeli-py/to-do-list.git
+   git clone https://github.com/Citeli-py/to-do-list.git
    ```
 2. Navegue até o diretório do projeto:
 
   ```bash
-    cd to-do-list-react
+  cd to-do-list-react
   ```
 3. Instale as dependências:
    
   ```bash
-    npm install
+  npm install
   ```
 
 4. Inicie o servidor de desenvolvimento:
    
    ```bash
-      npm start
+   npm start
    ```
 
 ## Tecnologias utilizadas
