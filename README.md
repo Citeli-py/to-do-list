@@ -29,7 +29,7 @@ Este é um simples aplicativo de to-do list desenvolvido em React. Permite aos u
 4. Inicie o servidor de desenvolvimento:
    
    ```bash
-    npm start
+      npm start
    ```
 
 ## Tecnologias utilizadas
