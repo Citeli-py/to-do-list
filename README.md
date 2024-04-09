@@ -17,14 +17,14 @@ Este é um simples aplicativo de to-do list desenvolvido em React. Permite aos u
    ```
 2. Navegue até o diretório do projeto:
 
-  ```bash
-  cd to-do-list-react
-  ```
+   ```bash
+   cd to-do-list-react
+   ```
 3. Instale as dependências:
    
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 
 4. Inicie o servidor de desenvolvimento:
    
